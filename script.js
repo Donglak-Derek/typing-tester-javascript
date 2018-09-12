@@ -74,3 +74,11 @@ testArea.addEventListener("keypress", start, false);
 testArea.addEventListener("keyup", spellCheck, false);
 resetButton.addEventListener("click", reset, false);
 
+
+// to do list
+// add word for time => search and calculate/ how fast typing
+// count errors
+// add array of different text
+// high score board
+
+
